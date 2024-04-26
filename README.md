@@ -21,4 +21,4 @@
   <a href = "joaozeeraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
 </div>
-![](https://i.pinimg.com/originals/93/9a/ea/939aead2774923168f37bec947cddb0a.gif).
+![](https://i.pinimg.com/originals/33/7a/f3/337af398877b856f25624144420a5230.gif).
